@@ -1,0 +1,3 @@
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
